@@ -1,2 +1,2 @@
-# INST314
+# inst314
 Class
